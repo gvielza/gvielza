@@ -18,4 +18,5 @@ de preferencia Java Y Wordpress.
 -[Whatsapp](https://wa.me/+5491150392391)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvielza)](https://github.com/gvielza/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=gvielza&layout=compact&langs_count=7&theme=radical
 
