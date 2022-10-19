@@ -20,5 +20,5 @@ Estudiando Python
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvielza)](https://github.com/gvielza/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gvielza&layout=compact)
+
 
