@@ -17,7 +17,9 @@ de preferencia Python, PHP, Wordpress y Java.
 
 -[Whatsapp](https://wa.me/+5491150392391)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvielza)](https://github.com/gvielza/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvielza&theme=tokyonight)](https://github.com/gvielza/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvielza&theme=tokyonight)
 
 
 
