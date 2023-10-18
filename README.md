@@ -2,7 +2,7 @@
 
 Mi nombre es Gionnelly Vielza, soy cubano y actualmente vivo en Buenos Aires, Argentina
 Soy Ingeniero Informático desde el año 2013, apasionado enormemente por la tecnología,
-de preferencia Python, PHP, Wordpress y Java.
+de preferencia Python, PHP, Wordpress, SAS y Java.
 
 
 
