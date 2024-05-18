@@ -1,14 +1,14 @@
 ### Bievenidos! 👋
 
 Mi nombre es Gionnelly Vielza, soy cubano y actualmente vivo en Buenos Aires, Argentina
-Soy Ingeniero Informático desde el año 2013, apasionado enormemente por la tecnología,
+Soy Ingeniero Informático desde el año 2013, refugiado en la tecnología,
 de preferencia Python, PHP, Wordpress, SAS y Java.
 
 
 
-- 🌱 Trabajo siempre en mi perfeccionamiento y crecimiento ...
-- 👯 Me gusta trabajar en equipo ...
-- 💬 Soy una persona comunicativa ...
+- 🌱 Me gusta aprender de todo un poco, más si es algo desconocido para mi ...
+- 👯 Pienso que el trabajo en equipo es más placentero ...
+- 💬 Soy una persona comunicativa que le gusta expresarse y escuchar ...
 
 
 -[Blog](https://recorrebuenosaires.com.ar)
@@ -17,9 +17,10 @@ de preferencia Python, PHP, Wordpress, SAS y Java.
 
 -[Whatsapp](https://wa.me/+5491150392391)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvielza&theme=tokyonight)](https://github.com/gvielza/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,php,wordpress&perline=4)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvielza&theme=tokyonight)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Creciendo...%20🌻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+
 
 
 
