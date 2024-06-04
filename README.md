@@ -12,7 +12,7 @@ de preferencia Python, PHP, Wordpress, SAS y Java.
 - 💬 Soy una persona comunicativa que le gusta expresarse y escuchar ...
 
 
--[Blog](https://recorrebuenosaires.com.ar)
+-[Blog](https://gvielza.github.io/portafolio/)
 
 -[LinkedIn](https://www.linkedin.com/in/gionnelly-vielza-dur%C3%A1n-038875197/)
 
