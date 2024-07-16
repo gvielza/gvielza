@@ -14,6 +14,8 @@ de preferencia Python, PHP, Wordpress, SAS y Java.
 
 -[Blog](https://gvielza.github.io/portafolio/)
 
+-[Blog Buenos Aires](https://recorrebuenosaires.com.ar/blog/)
+
 -[LinkedIn](https://www.linkedin.com/in/gionnelly-vielza-dur%C3%A1n-038875197/)
 
 -[Whatsapp](https://wa.me/+5491150392391)
