@@ -16,6 +16,8 @@ de preferencia Python, PHP, Wordpress, SAS y Java.
 
 -[Blog Buenos Aires](https://recorrebuenosaires.com.ar/blog/)
 
+-[Conoce tu Top Artistas de Spotify](https://gvielza.pythonanywhere.com/spotify)
+
 -[LinkedIn](https://www.linkedin.com/in/gionnelly-vielza-dur%C3%A1n-038875197/)
 
 -[Whatsapp](https://wa.me/+5491150392391)
