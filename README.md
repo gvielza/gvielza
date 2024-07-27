@@ -23,6 +23,14 @@ de preferencia Python, PHP, Wordpress, SAS y Java.
 -[Whatsapp](https://wa.me/+5491150392391)
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,php,wordpress&perline=4)](https://skillicons.dev)
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="50" height="50"/>
+</a>
+
+
+
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Creciendo...%20🌻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
