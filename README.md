@@ -12,7 +12,7 @@ de preferencia Python, Flask, PHP, Wordpress, SAS, Java y Bases de Datos.
 - 💬 Soy una persona comunicativa que le gusta expresarse y escuchar ...
 
 
--[Portafolio](https://gvielza.github.io/portafolio/)
+-[Portafolio](https://gionnelly.sytes.net/)
 
 -[Blog Buenos Aires](https://recorrebuenosaires.com.ar/blog/)
 
