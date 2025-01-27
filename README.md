@@ -1,6 +1,6 @@
 ### Bievenidos! 👋
 
-Mi nombre es Gionnelly Vielza, soy cubano y actualmente vivo en Buenos Aires, Argentina
+Mi nombre es Gionnelly Vielza, soy cubano y actualmente vivo en Buenos Aires, Argentina.
 Soy Ingeniero Informático desde el año 2013, refugiado en la tecnología,
 de preferencia Python, Flask, PHP, Wordpress, SAS, Java y Bases de Datos.
 
